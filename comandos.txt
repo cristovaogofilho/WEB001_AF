@@ -1,0 +1,17 @@
+git clone https://github.com/cristovaogofilho/WEB001_AF.git
+
+cd WEB001_AF
+
+git add "nome.txt"
+
+git status
+
+git commit -m "Esse é o nome"
+
+git add "comandos.txt"
+
+git status
+
+git commit -m "Esses são os comandos"
+
+git push origin master
